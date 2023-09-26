@@ -12,7 +12,7 @@ const Home = () => {
       <main className="main">
         <section className="intro text-center py-5">
           <div className="container">
-            <p>Welcome to our Employee Management System. Manage your employees efficiently and easily.</p>
+            <p>Welcome to our Employee Management System.Manage your employees efficiently and easily.</p>
           </div>
         </section>
         <section className="features py-5">
